@@ -1,9 +1,9 @@
 {
-  "name": "shayckspear/LeitorOFX",
-  "description": "LeitorOFX is simple and ready to read Open Financial Exchange",
+  "name": "shayckspear/leitorofx",
+  "description": "leitorofx is simple and ready to read Open Financial Exchange",
   "keywords": [
     "Shayckspear",
-    "LeitorOFX"
+    "leitorofx"
   ],
   "homepage": "http://www.iw9.com.br",
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "shayckspear\\LeitorOFX\\": "src"
+      "shayckspear\\leitorofx\\": "src"
     }
   }
 }

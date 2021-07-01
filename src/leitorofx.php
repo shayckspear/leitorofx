@@ -1,6 +1,6 @@
 <?php
 
-class LeitorOFX
+class leitorofx
 {
 
     private $bancoDesc;
