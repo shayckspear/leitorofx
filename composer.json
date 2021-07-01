@@ -1,0 +1,25 @@
+{
+  "name": "shayckspear/LeitorOFX",
+  "description": "LeitorOFX is simple and ready to read Open Financial Exchange",
+  "keywords": [
+    "Shayckspear",
+    "LeitorOFX"
+  ],
+  "homepage": "http://www.iw9.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wyllyan Frankllyn Luz Gonçalves",
+      "email": "wyllyan@iw9.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "shayckspear\\LeitorOFX\\": "src"
+    }
+  }
+}
