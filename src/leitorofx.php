@@ -1,5 +1,14 @@
 <?php
 
+namespace shayckspear\leitorofx;
+
+/**
+ * Class shayckspear leitorofx
+ *
+ * @author Wyllyan Frankllyn L. Gonçalves <https://github.com/shayckspear>
+ * @package shayckspear\leitorofx
+ */
+
 class leitorofx
 {
 
